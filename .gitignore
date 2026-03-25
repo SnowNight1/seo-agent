@@ -1,0 +1,27 @@
+# AI / Vibe Coding related files
+.gemini/
+.antigravity/
+task.md
+implementation_plan.md
+walkthrough.md
+brain/
+
+# IDE / System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build / Dependencies (if applicable later)
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
+.venv/
+env/

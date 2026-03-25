@@ -12,6 +12,9 @@ brain/
 .DS_Store
 Thumbs.db
 
+# Local notes (not for version control)
+notes/
+
 # Environment variables
 .env
 .env.local

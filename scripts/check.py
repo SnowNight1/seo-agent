@@ -20,6 +20,8 @@ import os
 import sys
 from pathlib import Path
 from typing import Callable
+from dotenv import load_dotenv
+load_dotenv()   
 
 # 确保从项目根目录导入
 ROOT = Path(__file__).parent.parent
